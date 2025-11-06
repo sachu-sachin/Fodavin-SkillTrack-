@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d79a954-2b8b-48a7-9c5a-3e848053fe29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server/config/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/controller/assignment.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/controller/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/controller/project.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/controller/submission.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/controller/subtask.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/middleware/authMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/Assignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/Submission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/Subtask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/assignmentRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/authRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/projectRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/submissionRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/subtaskRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/utilities/jwtToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sachu-sachin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sachu-sachin/Fodavin-SkillTrack-.git&quot;,
+    &quot;accountId&quot;: &quot;d855ca29-a3a4-444d-838b-817677b3778b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="34VcH55PLSasr2bHPf67b1Ga1YS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;server&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/Fodavin-SkillTrack&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\WebStorm 2025.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\Fodavin-SkillTrack\server\config" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d79a954-2b8b-48a7-9c5a-3e848053fe29" name="Changes" comment="" />
+      <created>1761302089268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761302089268</updated>
+      <workItem from="1761302090603" duration="1803000" />
+      <workItem from="1761308643923" duration="2485000" />
+      <workItem from="1761379967484" duration="10894000" />
+      <workItem from="1761590948683" duration="651000" />
+      <workItem from="1761629561657" duration="5509000" />
+      <workItem from="1761744319789" duration="2830000" />
+      <workItem from="1761809411078" duration="1971000" />
+      <workItem from="1761830682959" duration="3895000" />
+      <workItem from="1761835206374" duration="16855000" />
+      <workItem from="1761980796837" duration="28598000" />
+      <workItem from="1762152225351" duration="13964000" />
+      <workItem from="1762193604576" duration="6667000" />
+      <workItem from="1762238759021" duration="4159000" />
+      <workItem from="1762288907137" duration="2577000" />
+      <workItem from="1762322741697" duration="10252000" />
+      <workItem from="1762410100195" duration="4338000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update: gitignore updated with Document">
+      <option name="closed" value="true" />
+      <created>1761416256938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761416256938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update: gitignore updated with Document" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: gitignore updated with Document" />
+  </component>
+</project>
